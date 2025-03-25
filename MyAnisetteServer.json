@@ -41,13 +41,25 @@
       "address": "https://ani3server.fly.dev"
     },
     {
+      "name": "StikTech",
+      "address": "http://ani.stik.tech"
+    },
+    {
+      "name": "neoarz",
+      "address": "http://ani.neoarz.xyz"
+    },
+    {
+      "name": "nythepegasus",
+      "address": "http://ani.npeg.us"
+    },
+    {
       "name": "iDH Server",
       "address": "https://ani.idevicehacked.com"
     },
     {
-            "name": "Sidestore Server",
-            "address": "https://sidestore-0u6e.onrender.com"
-        }
+      "name": "Sidestore Server",
+      "address": "https://sidestore-0u6e.onrender.com"
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
